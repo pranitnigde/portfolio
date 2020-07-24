@@ -4,8 +4,6 @@
 
 To View the live site click [here &rarr;](https://pranitnigde.github.io/portfolio/)
 
-![Portfolio Gif](/images/portfolio.gif)
-
 ## Features
 
 - Clean, Simple and Modern UI Design.
